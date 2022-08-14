@@ -7,4 +7,4 @@ pip install tensorflow==2.6.0
 In this project Cifar10 dataset is tra,ned using VGG16 in Jupiter nootbook
 
 # Local Development
-1. Open data.html
+Open data.html for dataset
